@@ -1,1 +1,2 @@
 discord~=2.0.0
+azure-cognitiveservices-speech~=1.24.0
